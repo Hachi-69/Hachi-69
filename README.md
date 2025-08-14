@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Luca</h1>
+<h1 align="center">Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> I'm Luca</h1>
+
+
 <h3 align="center">🇮🇹 Software Developer from Italy | Passionate about AI, BackEnd and Games!</h3>
 
 </br>
@@ -49,9 +51,9 @@
 <img height="75" src="https://spotify-informer-l8rq.vercel.app/api"/>
 </a><br/>
 <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20Spotify‑Informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a>-->
-
+</br>
 <details>
-<summary>Some statistics ...</summary><br/>
+<summary>📊 Some statistics ... 📊</summary><br/>
 
 <img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/>
 
@@ -62,7 +64,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 </details>
-
+</br>
 <p>
 📣 Need to get in touch? Find me here:<br/>
 <a href="mailto:turilloluca2005@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hi%20Luca%2C%0A%0AI%20am%20contacting%20you%20today%20after%20seeing%20your%20GitHub%20profile%20to%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
