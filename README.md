@@ -55,7 +55,7 @@
 <details>
 <summary>📊 Some statistics ... 📊</summary><br/>
 
-<img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/>
+<h3>Profile Views: <img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/></h3>
 
 <!--START_SECTION:github_stats-->
 
