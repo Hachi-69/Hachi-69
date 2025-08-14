@@ -1,3 +1,6 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 <h1 align="center">Hi there 👋, I'm Luca</h1>
 <h3 align="center">🇮🇹 Software Developer from Italy | Passionate about AI, BackEnd and Games!</h3>
 
