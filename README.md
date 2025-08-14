@@ -34,6 +34,9 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+<p> Here is arndom's ocoto-lang:</p>
+<img src= "./my-octo-lang.png" width="400px"/>
+
 ### ⚡️ A little about me ⚡️<br/>
 <p>
   🧔 Hello, I'm <bold>Luca</bold>. I'm 20 years old and I'm a student of Computer Science and Engineering at the University of Bologna.<br/>
