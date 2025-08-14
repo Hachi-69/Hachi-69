@@ -34,7 +34,6 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<p> Here is arndom's ocoto-lang:</p>
 <img src= "./my-octo-lang.png" width="400px"/>
 
 ### ⚡️ A little about me ⚡️<br/>
