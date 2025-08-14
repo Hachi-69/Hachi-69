@@ -36,9 +36,9 @@
 <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
 </div>
 </p>
-
+<p align="center">
 <img src= "./my-octo-lang.png" width="400px" alt="My Octo Languages"/>
-
+</p>
 ⚡️ A little about me ⚡️<br/>
 <p>
 🧔 Hello, I'm <b>Luca</b>. I'm 20 years old and I'm a student of Computer Science and Engineering at the University of Bologna.<br/>
