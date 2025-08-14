@@ -1,6 +1,8 @@
 <p>
     <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=omni"/>
+
 ![Grafico delle lingue più usate](https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=hachi-69&count_private=true&theme=rose)
+    
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hachi-69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&count_private=true"/> -->
     
 </p>
