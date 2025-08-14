@@ -1,3 +1,12 @@
+<h1 align="center">Hi there 👋, I'm Luca</h1>
+<h3 align="center">🇮🇹 Software Developer from Italy | Passionate about AI, BackEnd and Games!</h3>
+
+</br>
+
+> ✨ *“Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.”*
+
+</br>
+
 <p align="center">
 <img src="https://github-readme-stats-black-alpha-63.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=omni&count_private=true" alt="GitHub Stats"/>
 <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=hachi-69&count_private=true&theme=rose" alt="Top Languages"/>
