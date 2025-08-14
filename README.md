@@ -1,6 +1,9 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
+    <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=omni"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hachi-69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph" />
+</p>
+</br></br>
+ <p>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%23&logoColor=white"/>
@@ -50,23 +53,3 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-2,759%20hrs%2051%20mins-blue)
 
 <img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/>
-
-**🐱 My GitHub Data** 
-
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3468 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-🌆 Daytime                19863 commits       ████████████░░░░░░░░░░░░░   46.77 % 
-🌃 Evening                15216 commits       █████████░░░░░░░░░░░░░░░░   35.83 % 
-🌙 Night                  3923 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 %
