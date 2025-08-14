@@ -11,7 +11,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats-black-alpha-63.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=omni&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=hachi-69&count_private=true&theme=rose" alt="Top Languages"/>
+<img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=hachi-69&count_private=true&theme=omni" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 <!--END_SECTION:github_stats-->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </details>
 </br>
