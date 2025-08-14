@@ -53,3 +53,8 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-2,759%20hrs%2051%20mins-blue)
 
 <img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/>
+
+<!--START_SECTION:github_stats-->
+
+
+<!--END_SECTION:github_stats-->
