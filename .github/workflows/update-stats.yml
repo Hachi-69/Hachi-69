@@ -15,7 +15,7 @@ jobs:
       - name: Update README with GitHub Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          wakatime_apikey: ${{ secrets.WAKATIME_API_KEY }}
-          commit_message: "Updated GitHub Stats"
-          output_file: "README.md"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "Updated GitHub Stats"
+          OUTPUT_FILE: "README.md"
