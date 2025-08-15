@@ -73,9 +73,9 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2051%20mins-blue)
 
-<!--START_SECTION:github_stats-->
+<!--START_SECTION:waka-->
 
-<!--END_SECTION:github_stats-->
+<!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
