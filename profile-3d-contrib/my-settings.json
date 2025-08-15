@@ -1,7 +1,6 @@
 {
-  "name": "custom-night-rainbow",
   "view": "night-rainbow",
-  "scale": {
-    "max": 1000
-  }
+  "maxContribution": 1000,
+  "backgroundColor": "#0b0b0b",
+  "foregroundColor": "#ffffff"
 }
