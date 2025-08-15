@@ -51,7 +51,8 @@
 </table>
 
 <p align="center">
-<img src= "./my-octo-lang.png" width="400px" alt="My Octo Languages"/>
+  
+![My Octo](./assets/my-octo-lang.png)
 </p>
 ⚡️ A little about me ⚡️<br/>
 <p>
