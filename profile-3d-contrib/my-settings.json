@@ -1,1 +1,7 @@
-
+{
+  "name": "custom-night-rainbow",
+  "view": "night-rainbow",
+  "scale": {
+    "max": 1000
+  }
+}
