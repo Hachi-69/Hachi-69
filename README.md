@@ -69,7 +69,7 @@
 <details>
 <summary>📊 Some statistics ... 📊</summary><br/>
 
-<h3>Profile Views: <img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/></h3>
+<img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2051%20mins-blue)
 
