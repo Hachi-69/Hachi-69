@@ -52,7 +52,7 @@
 
 <p align="center">
   
-![My Octo](./assets/my-octo-lang.png)
+<img src= "./my-octo-lang.png" width="400px" alt="My Octo Languages"/>
 </p>
 ⚡️ A little about me ⚡️<br/>
 <p>
