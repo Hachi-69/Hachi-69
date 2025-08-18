@@ -12,7 +12,7 @@
 <table align="center" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td valign="top" align="left" style="padding-right:12px;">
-      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=omni&count_private=true&v=3" alt="GitHub Stats" border="0" />
+      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=false&line_height=21&show_owner=true&theme=omni&count_private=true&v=3" alt="GitHub Stats" border="0" />
       <table cellpadding="0" cellspacing="4" border="0" style="margin-top:10px;">
         <tr>
           <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" /></td>
@@ -45,7 +45,7 @@
       </table>
     </td>
     <td valign="top" align="right">
-      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=false&v=3" alt="Top Langs" border="0" />
+      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=Hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=false&v=3" alt="Top Langs" border="0" />
     </td>
   </tr>
 </table>
@@ -69,11 +69,11 @@
 </br>
 📊 Some statistics ... 📊<br/><br/>
 
+<!--START_SECTION:waka-->
+
 <img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2051%20mins-blue)
-
-<!--START_SECTION:waka-->
 
 ```txt
 From: 13 August 2025 - To: 16 August 2025
