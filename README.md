@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> I'm Luca</h1>
 
 
-<h3 align="center">🇮🇹 Software Developer from Italy | Passionate about AI, BackEnd and Games!</h3>
+<h3 align="center">🇮🇹 Software Developer from Italy | Passionate about AI, Back-end and Games!</h3>
 
 </br>
 
