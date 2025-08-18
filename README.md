@@ -67,8 +67,7 @@
 </a><br/>
 <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20Spotify‑Informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a>-->
 </br>
-<details>
-<summary>📊 Some statistics ... 📊</summary><br/>
+📊 Some statistics ... 📊<br/><br/>
 
 <img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/>
 
@@ -88,7 +87,6 @@ No activity tracked
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-</details>
 </br>
 <p>
 📣 Need to get in touch? Find me here:<br/>
