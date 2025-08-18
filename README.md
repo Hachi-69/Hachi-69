@@ -53,7 +53,6 @@
 <p align="center">
   
 <img src= "./my-octo-lang.png" width="400px"/>
-<img src= "./assets/my-octo-lang.png" width="400px"/>
 </p>
 ⚡️ A little about me ⚡️<br/>
 <p>
