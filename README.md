@@ -92,7 +92,7 @@ No activity tracked
 </br>
 <p>
 📣 Need to get in touch? Find me here:<br/>
-<a href="mailto:turilloluca2005@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hi%20Luca%2C%0A%0AI%20am%20contacting%20you%20today%20after%20seeing%20your%20GitHub%20profile%20to%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=turilloluca2005@gmail.com&su=[GitHub]%20🔥%20Contact&body=Hi%20Luca%2C%0A%0AI%20am%20contacting%20you%20today%20after%20seeing%20your%20GitHub%20profile%20to%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email Badge"/></a>
 <a href="https://instagram.com/0icrel_0nidomoc/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/luca-turillo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
