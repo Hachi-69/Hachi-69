@@ -52,7 +52,7 @@
 
 <p align="center">
   
-<img src= "./my-octo-lang.png" width="400px" alt="My Octo Languages"/>
+<img src= "./my-octo-lang.png" width="400px"/>
 </p>
 ⚡️ A little about me ⚡️<br/>
 <p>
