@@ -71,12 +71,8 @@
 
 <!--START_SECTION:waka-->
 
-<img src="http://views.whatilearened.today/views/github/Hachi-69/views.svg"/>
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2051%20mins-blue)
-
 ```txt
-From: 13 August 2025 - To: 16 August 2025
+From: 13 August 2025 - To: 17 August 2025
 
 Total Time: 0 secs
 
