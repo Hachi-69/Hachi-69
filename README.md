@@ -17,7 +17,7 @@
         <tr>
           <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" /></td>
           <td><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" /></td>
-          <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%23&logoColor=white" alt="C#" /></td>
+          <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JS" /></td>
           <td><img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio" /></td>
         </tr>
         <tr>
@@ -27,7 +27,7 @@
           <td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" /></td>
         </tr>
         <tr>
-          <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JS" /></td>
+          <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%23&logoColor=white" alt="C#" /></td>
           <td><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin" /></td>
           <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" /></td>
           <td><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" /></td>
