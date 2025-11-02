@@ -39,10 +39,16 @@
           <td><img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio" /></td>
         </tr>
         <tr>
-          <td><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" /></td>
-          <td><img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white" alt="Apache" /></td>
-        </tr>
-      </table>
+          <td><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" /></td>
+          <td><img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white" alt="Apache" /></td>
+          <td><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux" /></td>
+          <td><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" /></td>
+          <td><img src="https://img.shields.io/badge/-Bazzite-3C6EB4?style=flat-square&logo=Fedora&logoColor=white" alt="Bazzite" /></td>
+        </tr>
+      </table>
     </td>
     <td valign="top" align="right">
       <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=Hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=true&v=3" alt="Top Langs" border="0" />
