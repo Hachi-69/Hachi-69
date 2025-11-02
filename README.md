@@ -45,7 +45,7 @@
       </table>
     </td>
     <td valign="top" align="right">
-      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=Hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=false&v=3" alt="Top Langs" border="0" />
+      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=Hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=true&v=3" alt="Top Langs" border="0" />
     </td>
   </tr>
 </table>
