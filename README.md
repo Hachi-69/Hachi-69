@@ -16,7 +16,7 @@
       <table cellpadding="0" cellspacing="4" border="0" style="margin-top:10px;">
         <tr>
           <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" /></td>
-          <td><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" /></td>
+          <td><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" /></td>
           <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%23&logoColor=white" alt="C#" /></td>
           <td><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" /></td>
         </tr>
@@ -43,11 +43,7 @@
           <td><img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white" alt="Apache" /></td>
           <td><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux" /></td>
           <td><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash" /></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" /></td>
-          <td><img src="https://img.shields.io/badge/-Bazzite-3C6EB4?style=flat-square&logo=Fedora&logoColor=white" alt="Bazzite" /></td>
-        </tr>
+        </tr>
       </table>
     </td>
     <td valign="top" align="right">
