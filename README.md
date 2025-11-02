@@ -18,7 +18,7 @@
           <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" /></td>
           <td><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" /></td>
           <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%23&logoColor=white" alt="C#" /></td>
-          <td><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" /></td>
+          <td><img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio" /></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL" /></td>
@@ -33,10 +33,10 @@
           <td><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" /></td>
         </tr>
         <tr>
-          <td><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode" /></td>
+          <td><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" /></td>
           <td><img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white" alt="Visual Studio" /></td>
           <td><img src="https://img.shields.io/badge/-NetBeans-1869A6?style=flat-square&logo=Apache%20NetBeans&logoColor=white" alt="NetBeans" /></td>
-          <td><img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio" /></td>
+          <td><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode" /></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" /></td>
