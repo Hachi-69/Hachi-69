@@ -9,47 +9,47 @@
 
 </br>
 
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td valign="top" align="left" style="padding-right:12px;">
-      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=true&line_height=21&show_owner=true&theme=omni&count_private=true&v=3" alt="GitHub Stats" border="0" />
-      <table cellpadding="0" cellspacing="4" border="0" style="margin-top:10px;">
-        <tr>
-          <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" /></td>
-          <td><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" /></td>
-          <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JS" /></td>
-          <td><img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio" /></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL" /></td>
-          <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP" /></td>
-          <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" /></td>
-          <td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" /></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%23&logoColor=white" alt="C#" /></td>
-          <td><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin" /></td>
-          <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" /></td>
-          <td><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" /></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" /></td>
-          <td><img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white" alt="Visual Studio" /></td>
-          <td><img src="https://img.shields.io/badge/-NetBeans-1869A6?style=flat-square&logo=Apache%20NetBeans&logoColor=white" alt="NetBeans" /></td>
-          <td><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode" /></td>
-        </tr>
-        <tr>
+<table align="center" cellpadding="0" cellspacing="24" border="0">
+  <tr>
+    <td valign="top" align="left">
+      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=true&line_height=21&show_owner=true&theme=omni&count_private=true&v=3" alt="GitHub Stats" border="0" />
+      <table cellpadding="0" cellspacing="4" border="0" style="margin-top:10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" /></td>
+          <td><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" /></td>
+          <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%23&logoColor=white" alt="C#" /></td>
+          <td><img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL" /></td>
+          <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP" /></td>
+          <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" /></td>
+          <td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JS" /></td>
+          <td><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin" /></td>
+          <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" /></td>
+          <td><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" /></td>
+          <td><img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white" alt="Visual Studio" /></td>
+          <td><img src="https://img.shields.io/badge/-NetBeans-1869A6?style=flat-square&logo=Apache%20NetBeans&logoColor=white" alt="NetBeans" /></td>
+          <td><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode" /></td>
+        </tr>
+        <tr>
           <td><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" /></td>
           <td><img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white" alt="Apache" /></td>
           <td><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux" /></td>
-          <td><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash" /></td>
-        </tr>
+      _     <td><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash" /></td>
+        </tr>
       </table>
-    </td>
-    <td valign="top" align="right">
-      <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=Hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=true&card_width=400&line_height=25&v=3" alt="Top Langs" border="0" />
     </td>
-  </tr>
+    <td valign="top" align="right">
+            <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=Hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=true&card_width=495&v=3" alt="Top Langs" border="0" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
