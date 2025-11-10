@@ -13,7 +13,7 @@
    <table align="center" cellpadding="0" cellspacing="4" border="0" style="margin-top:10px;">
     <tr>
       <td>
-  <img src="https://github-readme-stats-black-alpha-63.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=true&line_height=21&show_owner=true&theme=omni&count_private=true&v=3" alt="GitHub Stats" border="0" />
+  <img src="https://github-readme-stats-black-alpha-63.vercel.app/api?username=Hachi-69&show_icons=true&hide_border=false&line_height=21&show_owner=true&theme=omni&count_private=true&v=3" alt="GitHub Stats" border="0" />
       </td>
     </tr>
 
@@ -52,7 +52,7 @@
   </table>
 
   <br>
-  <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=Hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=true&card_width=400&line_height=25&v=3" alt="Top Langs" border="0" />
+  <img src="https://github-readme-stats-black-alpha-63.vercel.app/api/top-langs?username=Hachi-69&count_private=true&theme=omni&langs_count=11&hide_border=false&card_width=400&line_height=25&v=3" alt="Top Langs" border="0" />
 </div>
 
 <p align="center">
