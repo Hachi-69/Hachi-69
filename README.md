@@ -81,15 +81,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2025 - To: 06 January 2026
+From: 13 August 2025 - To: 07 January 2026
 
-Total Time: 35 hrs 10 mins
+Total Time: 37 hrs 18 mins
 
-Java                33 hrs 54 mins  ████████████████████████░   96.31 %
-JSON                41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Markdown            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Gradle Kotlin DSL   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-HTML                4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java                36 hrs 3 mins   ████████████████████████░   96.52 %
+JSON                41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Markdown            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Gradle Kotlin DSL   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+HTML                4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Other               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 YAML                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Git Config          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
