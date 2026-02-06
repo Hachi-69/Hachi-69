@@ -81,23 +81,23 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2025 - To: 03 February 2026
+From: 13 August 2025 - To: 04 February 2026
 
-Total Time: 48 hrs 54 mins
+Total Time: 52 hrs 9 mins
 
-Java                46 hrs 8 mins   ███████████████████████▒░   93.96 %
-Markdown            1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JSON                48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Git Config          18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Other               11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Java                49 hrs 22 mins  ███████████████████████▓░   94.28 %
+Markdown            1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+JSON                48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Git Config          18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Other               11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 HTML                6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Gradle Kotlin DSL   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Kotlin              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Gradle Kotlin DSL   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Kotlin              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Batchfile           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 YAML                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 XML                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-CSS                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Java Properties     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+CSS                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
