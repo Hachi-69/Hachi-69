@@ -78,6 +78,8 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2051%20mins-blue)
 
+[![wakatime](https://wakatime.com/badge/user/088f8a3e-8fc2-42af-9201-012e6598da2b.svg)](https://wakatime.com/@088f8a3e-8fc2-42af-9201-012e6598da2b)
+
 <!--START_SECTION:waka-->
 
 ```txt
