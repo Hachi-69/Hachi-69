@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Ogni giorno a mezzanotte
+    - cron: '0 1 * * *'  # Ogni giorno all'1:00 di mattina
   workflow_dispatch:
 
 permissions:
