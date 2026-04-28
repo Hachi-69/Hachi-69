@@ -83,15 +83,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2025 - To: 26 April 2026
+From: 13 August 2025 - To: 27 April 2026
 
-Total Time: 88 hrs 35 mins
+Total Time: 88 hrs 36 mins
 
-Java                75 hrs 57 mins        █████████████████████▒░░░   85.34 %
+Java                75 hrs 57 mins        █████████████████████▒░░░   85.33 %
 Python              7 hrs 29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 Markdown            2 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+sh                  49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 JSON                49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-sh                  48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 Other               24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Git Config          18 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 HTML                6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
