@@ -83,17 +83,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2025 - To: 16 May 2026
+From: 13 August 2025 - To: 17 May 2026
 
-Total Time: 93 hrs 50 mins
+Total Time: 94 hrs 3 mins
 
-Java                75 hrs 58 mins        ████████████████████░░░░░   80.60 %
-Python              12 hrs 15 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Markdown            2 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-sh                  1 hr 16 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Java                75 hrs 59 mins        ████████████████████░░░░░   80.44 %
+Python              12 hrs 16 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Markdown            2 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+sh                  1 hr 27 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 JSON                49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 Other               24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Git Config          18 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Git Config          18 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 HTML                6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Kotlin              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Gradle Kotlin DSL   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
