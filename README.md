@@ -61,7 +61,7 @@
 </p>
 ⚡️ A little about me ⚡️<br/>
 <p>
-🧔 Hello, I'm <b>Luca</b>. I'm 20 years old and I'm a student of Computer Science and Engineering at the University of Bologna.<br/>
+🧔 Hello, I'm <b>Luca</b>. I'm 21 years old and I'm a student of Computer Science and Engineering at the University of Bologna.<br/>
 💼 I live in <a href="https://www.google.com/maps?q=cesena">Cesena</a>, Italy.<br/>
 💻 Besides coding, my passions include playing video games, photographing natural landscapes, and traveling.<br/>
 </p>
