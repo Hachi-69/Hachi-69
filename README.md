@@ -66,11 +66,6 @@
 💻 Besides coding, my passions include playing video games, photographing natural landscapes, and traveling.<br/>
 </p>
 
-<!-- 🎶Now playing ...🎶<br/>
-<a href="https://spotify-informer-l8rq.vercel.app/">
-<img height="75" src="https://spotify-informer-l8rq.vercel.app/api"/>
-</a><br/>
-<a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20Spotify‑Informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a>-->
 </br>
 📊 Some statistics ... 📊<br/><br/>
 
